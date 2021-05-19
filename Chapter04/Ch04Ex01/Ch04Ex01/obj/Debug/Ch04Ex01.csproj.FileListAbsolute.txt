@@ -1,0 +1,6 @@
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\APP DEVELOPMENT\Ch04Ex01\Ch04Ex01\bin\Debug\Ch04Ex01.exe.config
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\APP DEVELOPMENT\Ch04Ex01\Ch04Ex01\bin\Debug\Ch04Ex01.exe
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\APP DEVELOPMENT\Ch04Ex01\Ch04Ex01\bin\Debug\Ch04Ex01.pdb
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\APP DEVELOPMENT\Ch04Ex01\Ch04Ex01\obj\Debug\Ch04Ex01.csproj.CoreCompileInputs.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\APP DEVELOPMENT\Ch04Ex01\Ch04Ex01\obj\Debug\Ch04Ex01.exe
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\APP DEVELOPMENT\Ch04Ex01\Ch04Ex01\obj\Debug\Ch04Ex01.pdb
