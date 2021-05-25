@@ -1,0 +1,7 @@
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Ch05Ex01\Ch05Ex01\bin\Debug\Ch05Ex01.exe.config
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Ch05Ex01\Ch05Ex01\bin\Debug\Ch05Ex01.exe
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Ch05Ex01\Ch05Ex01\bin\Debug\Ch05Ex01.pdb
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.csprojAssemblyReference.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.csproj.CoreCompileInputs.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.exe
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.pdb
