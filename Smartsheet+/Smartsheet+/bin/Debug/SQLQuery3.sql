@@ -1,0 +1,10 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [UserKey]
+      ,[FirstName]
+      ,[LastName]
+      ,[Date of Birth]
+      ,[Username]
+      ,[NumberPhone]
+      ,[EmailAddress]
+      ,[Location]
+  FROM [amen4creation].[dbo].[Users]
