@@ -1,0 +1,3 @@
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Chapter15Ex\Chapter15Ex\obj\Debug\Chapter15Ex.csprojAssemblyReference.cache
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Chapter15Ex\Chapter15Ex\obj\Debug\App.g.cs
+C:\Users\aymen\Documents\Sidify Music Converter\FormatConverter\FL Studio\Audio\Recorded\PROJECTS\Chapter15Ex\Chapter15Ex\obj\Debug\Chapter15Ex_MarkupCompile.cache
