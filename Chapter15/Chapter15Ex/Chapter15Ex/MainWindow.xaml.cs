@@ -24,5 +24,10 @@ namespace Chapter15Ex
         {
             InitializeComponent();
         }
+
+        private void rotatedButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
