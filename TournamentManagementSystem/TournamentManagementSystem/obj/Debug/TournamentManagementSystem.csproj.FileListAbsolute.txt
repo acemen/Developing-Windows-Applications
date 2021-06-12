@@ -1,0 +1,17 @@
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\TournamentManagementSystem.csprojAssemblyReference.cache
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\MainWindow.g.cs
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\Main_Window.g.cs
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\App.g.cs
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\TournamentManagementSystem_MarkupCompile.cache
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\TournamentManagementSystem_MarkupCompile.lref
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\bin\Debug\TournamentManagementSystem.exe.config
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\bin\Debug\TournamentManagementSystem.exe
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\bin\Debug\TournamentManagementSystem.pdb
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\MainWindow.baml
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\Main_Window.baml
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\TournamentManagementSystem.g.resources
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\TournamentManagementSystem.Properties.Resources.resources
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\TournamentManagementSystem.csproj.GenerateResource.cache
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\TournamentManagementSystem.csproj.CoreCompileInputs.cache
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\TournamentManagementSystem.exe
+D:\Desktop\TournamentManagementSystem\TournamentManagementSystem\obj\Debug\TournamentManagementSystem.pdb

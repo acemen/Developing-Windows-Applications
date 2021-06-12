@@ -1,0 +1,15 @@
+﻿<Window x:Class="TournamentManagementSystem.Main_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TournamentManagementSystem"
+        mc:Ignorable="d"
+        Title="Main_Window" Height="450" Width="800">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="792" Background="#FF211347"/>
+        <DataGrid x:Name="TeamGrid" Height="263" Margin="52,129,0,0" Width="699" Background="#FF362929" Grid.Row="10" Grid.Column="11" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+        
+    </Grid>
+</Window>
